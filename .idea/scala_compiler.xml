@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark-day01_2.11">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="G:\Apeixun\spark-test\spark-day01_2.11\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="spark-day02_2.11,spark-day05_2.11,spark-day04_2.11,spark-day03_2.11,spark-day06_2.11" />
+  </component>
+</project>

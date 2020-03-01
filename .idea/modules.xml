@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-day01_2.11/spark-day01_2.11.iml" filepath="$PROJECT_DIR$/spark-day01_2.11/spark-day01_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day02_2.11/spark-day02_2.11.iml" filepath="$PROJECT_DIR$/spark-day02_2.11/spark-day02_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day03_2.11/spark-day03_2.11.iml" filepath="$PROJECT_DIR$/spark-day03_2.11/spark-day03_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day04_2.11/spark-day04_2.11.iml" filepath="$PROJECT_DIR$/spark-day04_2.11/spark-day04_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day05_2.11/spark-day05_2.11.iml" filepath="$PROJECT_DIR$/spark-day05_2.11/spark-day05_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day06_2.11/spark-day06_2.11.iml" filepath="$PROJECT_DIR$/spark-day06_2.11/spark-day06_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-day07_2.11/spark-day07_2.11.iml" filepath="$PROJECT_DIR$/spark-day07_2.11/spark-day07_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-mytest.iml" filepath="$PROJECT_DIR$/spark-mytest.iml" />
+    </modules>
+  </component>
+</project>
